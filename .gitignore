@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+nohup.out
+*.log
+
+# Outputs & results
+output/
+results/
+
+# Model weights
+*.pth
+*.pth.tar
+pretrained_models/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Environment
+.env
+
+# OS
+.DS_Store

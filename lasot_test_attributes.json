@@ -1,0 +1,2359 @@
+{
+  "airplane-1": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution"
+  ],
+  "airplane-13": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "airplane-15": [
+    "Illumination Variation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "airplane-9": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "basketball-1": [
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution"
+  ],
+  "basketball-11": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "basketball-6": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "basketball-7": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "bear-17": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "bear-2": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "bear-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "bear-6": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "bicycle-18": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bicycle-2": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bicycle-7": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "bicycle-9": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bird-15": [
+    "Illumination Variation",
+    "Deformation",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bird-17": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "bird-2": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "bird-3": [
+    "Partial Occlusion",
+    "Deformation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "boat-12": [
+    "Partial Occlusion",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Low Resolution"
+  ],
+  "boat-17": [
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "boat-3": [
+    "Camera Motion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "boat-4": [
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "book-10": [
+    "Deformation",
+    "Scale Variation"
+  ],
+  "book-11": [
+    "Partial Occlusion"
+  ],
+  "book-19": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "book-3": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "bottle-1": [
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "bottle-12": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bottle-14": [
+    "Partial Occlusion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bottle-18": [
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bus-17": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation"
+  ],
+  "bus-19": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "bus-2": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "bus-5": [
+    "Illumination Variation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "car-17": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "car-2": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Motion Blur",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "car-6": [
+    "Illumination Variation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Fast Motion"
+  ],
+  "car-9": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "cat-1": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "cat-18": [
+    "Deformation",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "cat-20": [
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "cat-3": [
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "cattle-12": [
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "cattle-13": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "cattle-2": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "cattle-7": [
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "chameleon-11": [
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "chameleon-20": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion"
+  ],
+  "chameleon-3": [
+    "Deformation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "chameleon-6": [
+    "Illumination Variation",
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "coin-18": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "coin-3": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "coin-6": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "coin-7": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Aspect Ratio Change"
+  ],
+  "crab-12": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Camera Motion",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "crab-18": [
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "crab-3": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "crab-6": [
+    "Deformation",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "crocodile-10": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "crocodile-14": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Scale Variation"
+  ],
+  "crocodile-3": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "crocodile-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "cup-1": [
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "cup-17": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "cup-4": [
+    "Background Clutter"
+  ],
+  "cup-7": [
+    "Camera Motion",
+    "Background Clutter"
+  ],
+  "deer-10": [
+    "Partial Occlusion",
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "deer-14": [
+    "Partial Occlusion",
+    "Deformation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "deer-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "deer-8": [
+    "Partial Occlusion",
+    "Deformation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "dog-1": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "dog-15": [
+    "Deformation",
+    "Camera Motion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "dog-19": [
+    "Partial Occlusion",
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "dog-7": [
+    "Deformation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "drone-13": [
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "drone-15": [
+    "Illumination Variation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "drone-2": [
+    "Illumination Variation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "drone-7": [
+    "Illumination Variation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "electricfan-1": [
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "electricfan-10": [
+    "Rotation"
+  ],
+  "electricfan-18": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "electricfan-20": [
+    "Partial Occlusion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "elephant-1": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "elephant-12": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "elephant-16": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "elephant-18": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "flag-2": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "flag-3": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "flag-5": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "flag-9": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "fox-2": [
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "fox-20": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "fox-3": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "fox-5": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "frog-20": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "frog-3": [
+    "Deformation",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "frog-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "frog-9": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation"
+  ],
+  "gametarget-1": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "gametarget-13": [
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Low Resolution"
+  ],
+  "gametarget-2": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "gametarget-7": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "gecko-1": [
+    "Illumination Variation",
+    "Deformation",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "gecko-16": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "gecko-19": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "gecko-5": [
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "giraffe-10": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "giraffe-13": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "giraffe-15": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "giraffe-2": [
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "goldfish-10": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "goldfish-3": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "goldfish-7": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "goldfish-8": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "gorilla-13": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "gorilla-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "gorilla-6": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "gorilla-9": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "guitar-10": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "guitar-16": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "guitar-3": [
+    "Illumination Variation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "guitar-8": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hand-16": [
+    "Deformation",
+    "Motion Blur",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "hand-2": [
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation"
+  ],
+  "hand-3": [
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hand-9": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hat-1": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hat-18": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hat-2": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hat-5": [
+    "Partial Occlusion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "helmet-11": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "helmet-13": [
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "helmet-19": [
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "helmet-5": [
+    "Partial Occlusion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "hippo-1": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Aspect Ratio Change"
+  ],
+  "hippo-20": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "hippo-7": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "hippo-9": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "horse-1": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "horse-12": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "horse-15": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "horse-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "kangaroo-11": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "kangaroo-14": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "kangaroo-2": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "kangaroo-5": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "kite-10": [
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "kite-15": [
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "kite-4": [
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "kite-6": [
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "leopard-1": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "leopard-16": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "leopard-20": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "leopard-7": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "licenseplate-12": [
+    "Partial Occlusion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "licenseplate-13": [
+    "Scale Variation",
+    "Low Resolution"
+  ],
+  "licenseplate-15": [
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "licenseplate-6": [
+    "Scale Variation",
+    "Low Resolution"
+  ],
+  "lion-1": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "lion-12": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "lion-20": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "lion-5": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "lizard-1": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "lizard-13": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "lizard-3": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "lizard-6": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "microphone-14": [
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "microphone-16": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "microphone-2": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "microphone-6": [
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution"
+  ],
+  "monkey-17": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "monkey-3": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "monkey-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "monkey-9": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "motorcycle-1": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "motorcycle-18": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "motorcycle-3": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "motorcycle-9": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "mouse-1": [
+    "Deformation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "mouse-17": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "mouse-8": [
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "mouse-9": [
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "person-1": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "person-10": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "person-12": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Background Clutter",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "person-5": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "pig-10": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "pig-13": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "pig-18": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "pig-2": [
+    "Illumination Variation",
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "pool-12": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "pool-15": [
+    "Motion Blur",
+    "Camera Motion",
+    "Background Clutter",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "pool-3": [
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "pool-7": [
+    "Motion Blur",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "rabbit-10": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "rabbit-13": [
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "rabbit-17": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "rabbit-19": [
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "racing-10": [
+    "Partial Occlusion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution"
+  ],
+  "racing-15": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion"
+  ],
+  "racing-16": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "racing-20": [
+    "Partial Occlusion",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "robot-1": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "robot-19": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "robot-5": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "robot-8": [
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation"
+  ],
+  "rubicCube-1": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "rubicCube-14": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "rubicCube-19": [
+    "Partial Occlusion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "rubicCube-6": [
+    "Partial Occlusion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "sepia-13": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "sepia-16": [
+    "Illumination Variation",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "sepia-6": [
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "sepia-8": [
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "shark-2": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "shark-3": [
+    "Partial Occlusion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "shark-5": [
+    "Illumination Variation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "shark-6": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "sheep-3": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "sheep-5": [
+    "Partial Occlusion",
+    "Deformation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "sheep-7": [
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation"
+  ],
+  "sheep-9": [
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "skateboard-16": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "skateboard-19": [
+    "Illumination Variation",
+    "Motion Blur",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "skateboard-3": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "skateboard-8": [
+    "Partial Occlusion",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "spider-14": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "spider-16": [
+    "Illumination Variation",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "spider-18": [
+    "Deformation",
+    "Rotation",
+    "Scale Variation"
+  ],
+  "spider-20": [
+    "Deformation",
+    "Rotation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "squirrel-11": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "squirrel-13": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "squirrel-19": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "squirrel-8": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "surfboard-12": [
+    "Partial Occlusion",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "surfboard-4": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "surfboard-5": [
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "surfboard-8": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "swing-10": [
+    "Partial Occlusion",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "swing-14": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "swing-17": [
+    "Partial Occlusion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "swing-20": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "tank-14": [
+    "Partial Occlusion",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "tank-16": [
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "tank-6": [
+    "Deformation",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation"
+  ],
+  "tank-9": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "tiger-12": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "tiger-18": [
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "tiger-4": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "tiger-6": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "train-1": [
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "train-11": [
+    "Viewpoint Change",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "train-20": [
+    "Partial Occlusion",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "train-7": [
+    "Partial Occlusion",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "truck-16": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Full Occlusion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "truck-3": [
+    "Viewpoint Change",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "truck-6": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "truck-7": [
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "turtle-16": [
+    "Illumination Variation",
+    "Deformation",
+    "Rotation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "turtle-5": [
+    "Deformation",
+    "Viewpoint Change",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "turtle-8": [
+    "Partial Occlusion",
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "turtle-9": [
+    "Deformation",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "umbrella-17": [
+    "Motion Blur",
+    "Rotation",
+    "Scale Variation",
+    "Aspect Ratio Change"
+  ],
+  "umbrella-19": [
+    "Partial Occlusion",
+    "Camera Motion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "umbrella-2": [
+    "Partial Occlusion",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Aspect Ratio Change"
+  ],
+  "umbrella-9": [
+    "Partial Occlusion",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "volleyball-1": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "volleyball-13": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "volleyball-18": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "volleyball-19": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "yoyo-15": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "yoyo-17": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Camera Motion",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "yoyo-19": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Scale Variation",
+    "Full Occlusion",
+    "Fast Motion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "yoyo-7": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Scale Variation",
+    "Fast Motion",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "zebra-10": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Aspect Ratio Change"
+  ],
+  "zebra-14": [
+    "Partial Occlusion",
+    "Deformation",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "zebra-16": [
+    "Partial Occlusion",
+    "Motion Blur",
+    "Rotation",
+    "Background Clutter",
+    "Scale Variation",
+    "Full Occlusion",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ],
+  "zebra-17": [
+    "Partial Occlusion",
+    "Deformation",
+    "Motion Blur",
+    "Camera Motion",
+    "Rotation",
+    "Scale Variation",
+    "Out of View",
+    "Low Resolution",
+    "Aspect Ratio Change"
+  ]
+}
